@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gryvdy" alt="gryvdy" /></a> </p>
 
-- 🔭 I’m currently working on [Personal project](https://github.com/Gryvdy/PersonalSite)
+- 🔭 I’m currently working on Planning system for TCServis
 
 - 💬 Ask me about **react, asp.net web api**
 
