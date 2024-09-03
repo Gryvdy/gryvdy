@@ -5,13 +5,31 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=karelpelcak" alt="karelpelcak" /></a> </p>
 
-- 🔭 I’m currently working on **Eshop in SvelteKit, and smaller projects in React/NextJS/SvelteKit**
+- 🔭 I’m currently working on **Eshop in SvelteKit, and smaller projects in React/NextJS/ExporessJS/SvelteKit/Rust**
 
-- 🌱 I’m currently learning **React/NextJS with Typescript on top level**
+- 🌱 I’m currently learning **React/NextJS with Typescript to top level**
 
 - 💬 Ask me about **React/NextJS/SvelteKit/C# - ASP.NET Web API**
 
 - 📫 How to reach me **pelcak.karel@gmail.com**
+
+- 📚 Favorit Libraries:
+    - ZOD
+    - TailwindCSS
+    - Prisma
+    - Axios
+ 
+- 💿 Home hosted Database - MySQL
+      
+- 🤫 Main Secret project Stack:
+    - NextJS
+    - ExpressJS
+    - Typescript
+    - ZOD
+    - Prisma
+    - Axios
+    - TailwindCSS
+    - MySQL
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
