@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karel Pelčák</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on Planning system for TCServis
+- 🔭 I’m currently working on Eshop in SvelteKit and smaller projects in Nextjs/React/SvelteKit
 
-- 💬 Ask me about **react, asp.net web api**
+- 💬 Ask me about **react, asp.net web api, sveltekit, nextjs**
 
-- 📫 How to reach me **gryvdycz@gmail.com**
+- 📫 How to reach me **pelcak.karel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
