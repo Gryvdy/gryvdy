@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **React/NextJS/SvelteKit/C# - ASP.NET Web API**
 
-- 📫 How to reach me **Pelcak.karel@gmail.com**
+- 📫 How to reach me **pelcak.karel@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
