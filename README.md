@@ -18,6 +18,7 @@
     - TailwindCSS
     - Prisma
     - Axios
+    - Feather-icons
  
 - 💿 Home hosted Database - MySQL
       
